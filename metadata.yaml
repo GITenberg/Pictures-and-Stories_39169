@@ -12,6 +12,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39169#Pictures-and-Stories
 gutenberg_issued: '2012-03-16'
 gutenberg_type: Text
 identifiers:
