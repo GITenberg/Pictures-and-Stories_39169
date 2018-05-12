@@ -1,0 +1,28 @@
+_repo: Pictures-and-Stories_39169
+_version: 0.1.0
+contributor:
+  publisher_contributor:
+    agent_name: Daniels, George Pond
+    alias: Daniels, G. P. (George Pond)
+    birthdate: 1809
+    deathdate: 1848
+    gutenberg_agent_id: '39874'
+    url: http://www.gutenberg.org/2009/agents/39874
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2012-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39169'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Children -- Conduct of life -- Juvenile literature'
+title: Pictures and Stories
+url: http://www.gutenberg.org/ebooks/39169
